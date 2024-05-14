@@ -1,0 +1,4 @@
+name: SpawnerDrop
+version: '${project.version}'
+main: org.xenerain.spawnerdrop.SpawnerDrop
+api-version: '1.20'
