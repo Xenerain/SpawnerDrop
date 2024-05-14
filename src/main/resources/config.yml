@@ -1,0 +1,7 @@
+# Spawner mine config
+
+item: DIAMOND_PICKAXE
+
+enchantment:
+  type: SILK_TOUCH
+  level: 1
